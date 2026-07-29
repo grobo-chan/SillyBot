@@ -2,4 +2,8 @@
 /memerole
 /board
 token
-Cargo.lock
+
+run.sh
+.envrc
+.env
+.direnv
