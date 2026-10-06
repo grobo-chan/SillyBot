@@ -2,8 +2,5 @@
 /memerole
 /board
 token
-
-run.sh
-.envrc
 .env
 .direnv
